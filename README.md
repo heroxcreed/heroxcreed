@@ -7,7 +7,7 @@ compute kernels, and retrieval / citation / injection failures in RAG systems.
 Then I hand you a report with reproductions, root causes, and merge-ready fixes —
 not a slide deck.
 
-📧 **heroxcreed275@gmail.com** — email only, no calls, no video.
+📧 **heroxcreed861@gmail.com** — email only, no calls, no video.
 
 ---
 
@@ -71,5 +71,5 @@ assigned to a Tenstorrent engineer, closed.
   one claim, one piece of evidence.
 - **No client cases yet** — that's what the sample report and the open-source
   kit are for.
-- Contact is **email only** (heroxcreed275@gmail.com). No calls, no video, no
+- Contact is **email only** (heroxcreed861@gmail.com). No calls, no video, no
   in-person meetings.
